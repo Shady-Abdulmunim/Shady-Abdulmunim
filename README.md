@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Embedded Systems as well as Android Development
 - 📫 How to reach me: E-mail: sh.ab20200@gmail.com or sh-ab10@hotmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 Shady-Abdulmunim/Shady-Abdulmunim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
